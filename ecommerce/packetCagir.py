@@ -1,2 +1,0 @@
-def FiyatHesapla():
-    print("FiyatHesaplaniyor...")
