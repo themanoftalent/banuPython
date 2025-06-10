@@ -4,7 +4,7 @@ This is a brief Python 3 programming lesson for those who find reading tedious. 
 
 This lesson is intended for those who have no programming experience or very little programming experience. If you've already coded in another language, you may wish to read the official instruction instead.
 
-You cann downlaod the code from here:<br>
+You can download the code from here:<br>
 
 ![img.png](img.png)
 
