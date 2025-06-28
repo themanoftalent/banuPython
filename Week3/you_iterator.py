@@ -24,5 +24,10 @@ class TestIters:
         return x in self.data
 
 
-ito = TestIters()
+# Example usage of the TestIters class with a sample sequence.
+ito = TestIters([1, 2, 3])
+
+# Optional: iterate over the instance to demonstrate the iterator protocol
+for item in ito:
+    print(item)
 
