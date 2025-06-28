@@ -1,4 +1,4 @@
-# restrict o letters only
+# restrict to letters only
 user_input = ''
 while True:
     user_input = input('Enter letters only = ')
